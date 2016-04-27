@@ -1,9 +1,18 @@
-body {
+body1 {
 		text-align: center;
 		background: url(http://static1.squarespace.com/static/55c3f0f5e4b005b7fa5d10af/t/55cbcc67e4b0513a93e20b71/1439419495183/far_sunset_in_te_ocean_horizon-wide.jpg);
 		background-size: cover;
 		background-position: center;
-		color: black;
+		color: blue;
+		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		font-family: helvetica;
+		}
+body2{
+		text-align: center;
+		background: url(http://static1.squarespace.com/static/55c3f0f5e4b005b7fa5d10af/t/55cbcc67e4b0513a93e20b71/1439419495183/far_sunset_in_te_ocean_horizon-wide.jpg);
+		background-size: cover;
+		background-position: center;
+		color: yellow;
 		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 		font-family: helvetica;
 		}
