@@ -12,6 +12,7 @@ h1	{
 		}
 h2	{	
 		color: black;
+		font-family: arial;
 		}
 img {
 		margin: 0px 40px 0px 0px;
@@ -19,6 +20,7 @@ img {
 p1   {
 		font-size: 22px;
 		color: black;
+		font-family: arial;
 		}
 p2	{
 		color: yellow;
